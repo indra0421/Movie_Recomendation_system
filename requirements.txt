@@ -1,0 +1,6 @@
+numpy==1.26.4
+pickle-mixin == 1.0.2
+streamlit==1.31.1
+pandas==2.2.1
+scikit-learn == 1.4.0
+requests == 2.31.0
